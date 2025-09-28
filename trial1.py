@@ -1,4 +1,4 @@
-numbers = [int(x) for x in input("Enter numbers separated by spaces: ").split()]
+import trial2.py
 total = 0
 
 for num in numbers:
